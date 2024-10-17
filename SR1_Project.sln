@@ -12,6 +12,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ソリューション項目
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DogTest", "DogTest\DogTest.csproj", "{750DEBD5-3531-4ACE-AA6E-DC3580F1573A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pj03-2", "pj03-2\pj03-2.csproj", "{EBA5CB0E-B48E-4062-86B0-B73A7210FFDF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -26,6 +28,10 @@ Global
 		{750DEBD5-3531-4ACE-AA6E-DC3580F1573A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{750DEBD5-3531-4ACE-AA6E-DC3580F1573A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{750DEBD5-3531-4ACE-AA6E-DC3580F1573A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBA5CB0E-B48E-4062-86B0-B73A7210FFDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBA5CB0E-B48E-4062-86B0-B73A7210FFDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBA5CB0E-B48E-4062-86B0-B73A7210FFDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBA5CB0E-B48E-4062-86B0-B73A7210FFDF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
